@@ -1,0 +1,54 @@
+.css-2b097c-container {
+    position: relative;
+    box-sizing: border-box;
+    width: 8%;
+    
+}
+
+
+.mainloop-control 
+{
+    
+
+}
+
+.SingleDatePicker SingleDatePicker_1 
+{
+     float: left;
+   
+   
+ 
+}
+.selectSelector {
+    
+    
+}
+
+.bt{
+
+      
+    }
+
+
+
+.tab-list {  border-bottom: 1px solid #ccc;
+  padding-left: 0;
+}
+
+.tab-list-item {
+  display: inline-block;
+  list-style: none;
+  margin-bottom: -1px;
+  padding: 0.5rem 0.75rem;
+  border: solid 2px;
+  margin-left: 5px;
+}
+
+.tab-list-active {
+  background-color: white;
+  border: solid #ccc;
+  border-width: 1px 1px 0 1px;
+}
+
+
+ 
